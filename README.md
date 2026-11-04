@@ -1,0 +1,2 @@
+# compose-lazycolumn-key-sample
+Jetpack ComposeのLazyColumnでkeyを指定する理由を検証するサンプルアプリです。rememberによる状態保持とリスト更新時の挙動を比較します。
